@@ -1,14 +1,14 @@
-# flexbox-website
+# :computer: flexbox-website
 
 Repository to learn flexbox by Node Studio Treinamentos.
 
 
-# TECHS
+# :rocket: TECHS
 -HTML <br/>
 -CSS <br/>
 -MATERIAL-Icons
 
-#Conclusion
+# :paperclip: Conclusion
 
 I realized that using flexbox make more easy to style the website And now I going to use flexbox in my projects. 
 
